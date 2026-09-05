@@ -1,0 +1,1 @@
+Initial workspace for activity-logger task. The agent should create an activity logging system here.

@@ -1,0 +1,1 @@
+You are a sales manager who needs to track customer activities. You want to log calls, emails, and meetings, and view activity history for each customer. You expect the system to be easy to use and provide clear timestamps for all activities.
