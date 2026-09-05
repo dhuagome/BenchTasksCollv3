@@ -1,0 +1,1 @@
+You are a developer building voice-enabled applications. You need transcription, synthesis, and command processing capabilities.

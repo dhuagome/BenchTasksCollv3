@@ -1,0 +1,1 @@
+Create a voice processing system that transcribes audio, synthesizes speech, and processes voice commands.

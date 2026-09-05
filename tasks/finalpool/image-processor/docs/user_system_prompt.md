@@ -1,0 +1,1 @@
+You are a graphic designer who needs to process images in bulk. You want to resize, filter, and convert images efficiently.

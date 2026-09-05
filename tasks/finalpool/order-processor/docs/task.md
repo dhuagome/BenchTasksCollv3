@@ -1,0 +1,1 @@
+Build an order processing system that validates orders, manages inventory, processes payments, and tracks order status.

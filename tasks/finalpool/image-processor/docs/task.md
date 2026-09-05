@@ -1,0 +1,1 @@
+Create an image processing tool that resizes images, applies filters, converts formats, and optimizes images for web use.

@@ -1,0 +1,1 @@
+Create a video trimming tool that allows users to cut video segments, specify start/end times, and export clips.

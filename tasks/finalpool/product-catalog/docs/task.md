@@ -1,0 +1,1 @@
+Build a product catalog management system that allows adding products, updating prices, managing inventory, and organizing categories.

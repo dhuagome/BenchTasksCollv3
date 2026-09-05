@@ -4,7 +4,6 @@ import sys
 
 def evaluate():
     workspace = os.environ.get('AGENT_WORKSPACE', '.')
-    # Check if activity log file exists
     log_file = os.path.join(workspace, 'activity_log.json')
     if not os.path.exists(log_file):
         print('FAIL: activity_log.json not found')

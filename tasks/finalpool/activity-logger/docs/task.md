@@ -1,1 +1,1 @@
-Create an activity logging system for a CRM that tracks all customer interactions including calls, emails, meetings, and notes. The system should allow users to log activities, view activity history, and generate activity reports.
+Create an activity logging system for a CRM that tracks all customer interactions including calls, emails, meetings, and notes.

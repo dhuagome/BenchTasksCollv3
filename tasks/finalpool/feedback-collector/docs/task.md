@@ -1,0 +1,1 @@
+Create a feedback collection system that gathers user feedback through surveys, categorizes responses, and generates actionable insights.
